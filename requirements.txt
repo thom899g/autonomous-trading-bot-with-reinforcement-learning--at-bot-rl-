@@ -1,0 +1,12 @@
+# Core dependencies for AT-Bot RL
+ccxt==4.2.0
+pandas==2.2.0
+numpy==1.26.0
+scikit-learn==1.4.0
+gymnasium==0.29.0
+stable-baselines3==2.1.0
+firebase-admin==6.2.0
+python-dotenv==1.0.0
+schedule==1.2.1
+ta==0.11.0
+matplotlib==3.8.0
